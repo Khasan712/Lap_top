@@ -1,0 +1,244 @@
+#header {
+    width: 100%;
+    height: 100vh;
+}
+
+.items {
+    display: flex;
+    text-align: right;
+}
+
+.items li{
+    list-style: none;
+    color: #bababa;
+}
+
+.pictures {
+    width: 100%;
+    height: 100vh;
+}
+.carousel-inner {
+    width: 100%;
+    height: 100vh;
+}
+
+
+.carousel-item img{
+    width: 100%;
+    height: 100vh;
+}
+.carousel-caption p{
+    position: relative;
+    bottom: 40vh;
+    text-transform: capitalize;
+    font-size: 1.3vw;
+    font-family: 'Newsreader', serif;
+}
+.carousel-caption hr{
+    width: 50%;
+    position: relative;
+    bottom: 38vh;
+    background-color: #bababa;
+}
+.carousel-caption h1{
+    position: relative;
+    bottom: 35vh;
+    text-transform: capitalize;
+    font-size: 6vw;
+}
+
+
+
+
+
+
+
+
+.section {
+    width: 100%;
+    height: 100vh;
+    background-color: #ebebeb;
+}
+.two-picture {
+    width: 76vw;
+    height: 78vh;
+    margin: 0 auto;
+    position: relative;
+    top: 11vh;
+}
+.card {
+    height: 78vh;
+    text-align: center;
+}
+.card-body {
+    position: relative;
+    top: 1.2vh;
+    padding: 5vh 3vw;
+}
+.mini-text {
+    text-transform: capitalize;
+    font-size: 0.750vw;
+    letter-spacing: 0.4vh;
+
+}
+.card hr{
+    background-color: #bababa;
+    width: 15vw;
+   padding: 0;
+    
+}
+.card-title {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 1.7vw;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 0;
+}
+.card-text {
+    text-align: left;
+    line-height: 3.5vh;
+    position: relative;
+    top: 1vh;
+    font-family: 'Abel', sans-serif;
+    font-size: 1.2vw;
+}
+.card-body button {
+    position: relative;
+    box-sizing: border-box;
+    top: 1.5vh;
+    width: 8vw;
+    height: 5vh;
+    border: 3px solid #bababa;
+    background-color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+.attechment{
+    width: 100%;
+    height: 45vh;
+    background-attachment: fixed;
+    background-image: url(01.jpg);
+    background-size: cover;
+}
+
+
+.box-attech {
+    text-align: center;
+    width: 22vw;
+    height: 40vh;
+    background-color: rgba(201, 201, 201, 0.9);
+    box-sizing: border-box;
+    padding: 5vh 0;
+    box-shadow: 0 0 0.5vh 0.2vw grey;
+    position: relative;
+    bottom: -20vh;
+    left: 5vw;
+}
+.box-attech p {
+    line-height: 5vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.the-end {
+    width: 100%;
+    height: 150vh;
+    margin: 0;
+    padding: 0;
+    background-color: #ebebeb;
+}
+
+.four-picture {
+    width: 76vw;
+    height: 120vh;
+    margin: 0 auto;
+    position: relative;
+    top: 11vh;
+    /* background-color: dimgray; */
+}
+.footer-text {
+    width: 55%;
+    height: 11vh;
+    margin: 0 auto;
+    position: relative;
+    top: 5vh;
+    text-align: center;
+}
+.footer-text p {
+    text-transform: capitalize;
+    font-size: 0.750vw;
+    letter-spacing: 0.4vh;
+    color: #ababab;
+}
+.footer-text hr{
+    width: 35vw;
+    background-color: #bababa;
+}
+.footer-text h4{
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 1.7vw;
+}
+
+
+.footer-picture {
+    position: relative;
+    top: 13vh;
+    
+}
+.card-1 {
+    width: 100%;
+    height: 36vh;
+    background-size: cover;
+    border: 1em solid white;
+    box-sizing: border-box;
+}
+
+
+.icon {
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+    margin-top: 8vh;
+    text-align: center;
+}
+.icon i{
+    font-size: 2vw;
+    margin: 0 1vh;
+    position: relative;
+    top: 9vh;
+    color: dimgray;
+}
+.icon p{
+    position: relative;
+    top: 12vh;
+}
+.icon i:hover{
+    color: #ababab;
+    transition-duration: 1s;
+}
+
+
+
+

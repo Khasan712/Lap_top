@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    width: 70%;
+    height: 10vh;
+    margin: auto;
+    padding: 3vh;
+    position: relative;
+    top: 5vh;
+}
+.container ul{
+    list-style: none;
+    display: flex;
+}
+.container ul li {
+    margin: 0 auto;
+    
+    
+}
+.ak {
+    color: #857063;
+    font-size: 1.5vw;
+}
+
+.no {
+    color: #5c5551;
+    font-size: 1vw;
+}
+
+
+
+
